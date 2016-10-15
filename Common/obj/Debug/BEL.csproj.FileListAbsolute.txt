@@ -1,0 +1,5 @@
+C:\Users\CodeValue\Desktop\Final Project\Common\bin\Debug\Common.dll
+C:\Users\CodeValue\Desktop\Final Project\Common\bin\Debug\Common.pdb
+C:\Users\CodeValue\Desktop\Final Project\Common\obj\Debug\Common.dll
+C:\Users\CodeValue\Desktop\Final Project\Common\obj\Debug\Common.pdb
+C:\Users\CodeValue\Desktop\Final Project\Common\obj\Debug\BEL.csprojResolveAssemblyReference.cache
