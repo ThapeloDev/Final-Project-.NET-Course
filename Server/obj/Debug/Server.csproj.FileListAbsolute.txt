@@ -1,0 +1,4 @@
+C:\Users\CodeValue\Desktop\Final Project\Server\bin\Debug\Server.dll
+C:\Users\CodeValue\Desktop\Final Project\Server\bin\Debug\Server.pdb
+C:\Users\CodeValue\Desktop\Final Project\Server\obj\Debug\Server.dll
+C:\Users\CodeValue\Desktop\Final Project\Server\obj\Debug\Server.pdb
