@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<Item>
+		<ItemName>חלב</ItemName>
+		<ItemCode name="ShuferSal">7290000474021</ItemCode>
+		<ItemCode name="RamiLevi">7290000474021</ItemCode>
+		<ItemCode name="Victory">7290000474021</ItemCode>
+	</Item>  
+	<Item>
+		<ItemName>קוטג'</ItemName>
+		<ItemCode name="ShuferSal">7290105368355</ItemCode>
+		<ItemCode name="RamiLevi">7290105368355</ItemCode>
+		<ItemCode name="Victory">7290105368355</ItemCode>
+	</Item>  
+	<Item>
+		<ItemName>גבינה צהובה</ItemName>
+		<ItemCode name="ShuferSal">7290102394463</ItemCode>
+		<ItemCode name="RamiLevi">7290102394463</ItemCode>
+		<ItemCode name="Victory">7290102394463</ItemCode>
+	</Item>  
+	<Item>
+		<ItemName>חמאה</ItemName>
+		<ItemCode name="ShuferSal">72963104</ItemCode>
+		<ItemCode name="RamiLevi">72963104</ItemCode>
+		<ItemCode name="Victory">72963104</ItemCode>
+	</Item>  
+	<Item>
+		<ItemName>יוגורט</ItemName>
+		<ItemCode name="ShuferSal">7290000408316</ItemCode>
+		<ItemCode name="RamiLevi">7290000408316</ItemCode>
+		<ItemCode name="Victory">7290000408316</ItemCode>
+	</Item> 
+	<Item>
+		<ItemName>שמנת מתוקה</ItemName>
+		<ItemCode name="ShuferSal">7290102392636</ItemCode>
+		<ItemCode name="RamiLevi">7290102392636</ItemCode>
+		<ItemCode name="Victory">7290102392636</ItemCode>
+	</Item>   
+</root>
