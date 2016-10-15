@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataBase>
+  <Users>
+    <User name="ido">
+      <Items>
+        <Item amount="1">חלב בשקית</Item>
+        <Item amount="1">תירס</Item>
+        <Item amount="1">ק"ג בננות במשקל</Item>
+        <Item amount="1">ק"ג אגסים במשקל</Item>
+      </Items>
+    </User>
+    <User name="danny">
+      <Items>
+        <Item amount="1">חלב בשקית</Item>
+      </Items>
+    </User>
+    <User name="idoo">
+      <Items />
+    </User>
+    <User name="shahar">
+      <Items />
+    </User>
+    <User name="ido88">
+      <Items>
+        <Item amount="1">חלב בשקית</Item>
+        <Item amount="1">קוטג' גביע</Item>
+        <Item amount="4">גבינה צהובה 500 גרם</Item>
+        <Item amount="1">חמאה 100 גרם</Item>
+        <Item amount="1">יוגורט גביע</Item>
+        <Item amount="1">שמנת מתוקה 250 מ"ל</Item>
+        <Item amount="1">מילקי גביע</Item>
+        <Item amount="1.4">ברוקולי ק"ג במשקל</Item>
+        <Item amount="1">בטטה 1 ק"ג במשקל</Item>
+        <Item amount="1">פטריות 400 גרם</Item>
+        <Item amount="1">עגבניות שרי 400 גרם</Item>
+      </Items>
+    </User>
+    <User name="dannyKapul">
+      <Items />
+    </User>
+  </Users>
+</DataBase>

@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataBase>
+  <Categories>
+    <Category name ="מוצרי חלב">
+      <Item>
+        <ItemName>חלב בשקית</ItemName>
+        <ItemCode name="Shufersal" code="7290000474021"></ItemCode>
+        <ItemCode name="RamiLevi" code="7290000474021"></ItemCode>
+        <ItemCode name="Victory" code="7290000474021"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>קוטג' גביע</ItemName>
+        <ItemCode name="Shufersal" code="7290002868996"></ItemCode>
+        <ItemCode name="RamiLevi" code="7290002868996"></ItemCode>
+        <ItemCode name="Victory" code="7290002868996"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>גבינה צהובה 500 גרם</ItemName>
+        <ItemCode name="Shufersal" code="7290102394463"></ItemCode>
+        <ItemCode name="RamiLevi" code="7290102394463"></ItemCode>
+        <ItemCode name="Victory" code="7290102394463"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>חמאה 100 גרם</ItemName>
+        <ItemCode name="Shufersal" code="72963104"></ItemCode>
+        <ItemCode name="RamiLevi" code="72963104"></ItemCode>
+        <ItemCode name="Victory" code="72963104"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>יוגורט גביע</ItemName>
+        <ItemCode name="Shufersal" code="7290000408316"></ItemCode>
+        <ItemCode name="RamiLevi" code="7290000408316"></ItemCode>
+        <ItemCode name="Victory" code="7290000408316"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>שמנת מתוקה 250 מ"ל</ItemName>
+        <ItemCode name="Shufersal" code="7290102392636"></ItemCode>
+        <ItemCode name="RamiLevi" code="7290102392636"></ItemCode>
+        <ItemCode name="Victory" code="7290102392636"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>מילקי גביע</ItemName>
+        <ItemCode name="Shufersal" code="7290107940269"></ItemCode>
+        <ItemCode name="RamiLevi" code="7290107940269"></ItemCode>
+        <ItemCode name="Victory" code="7290107940269"></ItemCode>
+      </Item>
+    </Category>
+    <Category name ="בשר">
+      <Item>
+        <ItemName>קבב מזרחי 400 גרם</ItemName>
+        <ItemCode name="Shufersal" code="7290002109488"></ItemCode>
+        <ItemCode name="RamiLevi" code="7290002109488"></ItemCode>
+        <ItemCode name="Victory" code="7290006742179"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>כנפיים במשקל ק"ג</ItemName>
+        <ItemCode name="Shufersal" code="7290004485832"></ItemCode>
+        <ItemCode name="RamiLevi" code="4194550"></ItemCode>
+        <ItemCode name="Victory" code="7290000633855"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>פרגיות במשקל ק"ג</ItemName>
+        <ItemCode name="Shufersal" code="7290009811513"></ItemCode>
+        <ItemCode name="RamiLevi" code="2748496"></ItemCode>
+        <ItemCode name="Victory" code="2206088"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>נקניקיות חריפות 1 ק"ג</ItemName>
+        <ItemCode name="Shufersal" code="7290002371854"></ItemCode>
+        <ItemCode name="RamiLevi" code="7290002371854"></ItemCode>
+        <ItemCode name="Victory" code="7290002371854"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>בקר טחון1 ק"ג במשקל</ItemName>
+        <ItemCode name="Shufersal" code="7290002923466"></ItemCode>
+        <ItemCode name="RamiLevi" code="7290002923466"></ItemCode>
+        <ItemCode name="Victory" code="7290002923466"></ItemCode>
+      </Item>
+    </Category>
+    <Category name ="ירקות">
+      <Item>
+        <ItemName>עגבניות קוביות 800 גרם</ItemName>
+        <ItemCode name="Shufersal" code ="7290000207438"></ItemCode>
+        <ItemCode name="RamiLevi" code ="7290000207438"></ItemCode>
+        <ItemCode name="Victory" code="7290000355719"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>עגבניות שרי 400 גרם</ItemName>
+        <ItemCode name="Shufersal" code ="7296073218845"></ItemCode>
+        <ItemCode name="RamiLevi" code="162"></ItemCode>
+        <ItemCode name="Victory" code="7290016617016"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>ברוקולי ק"ג במשקל</ItemName>
+        <ItemCode name="Shufersal" code ="7290000000626"></ItemCode>
+        <ItemCode name="RamiLevi" code="163"></ItemCode>
+        <ItemCode name="Victory" code="610"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>בטטה 1 ק"ג במשקל</ItemName>
+        <ItemCode name="Shufersal" code ="7290000965598"></ItemCode>
+        <ItemCode name="RamiLevi" code="138"></ItemCode>
+        <ItemCode name="Victory" code="612"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>פטריות 400 גרם</ItemName>
+        <ItemCode name="Shufersal" code ="7290006511157"></ItemCode>
+        <ItemCode name="RamiLevi" code="7290006511157"></ItemCode>
+        <ItemCode name="Victory" code="7290006511157"></ItemCode>
+      </Item>
+    </Category>
+    <Category name ="פירות">
+      <Item>
+        <ItemName>ק"ג בננות במשקל</ItemName>
+        <ItemCode name="Shufersal" code ="7290000964775"></ItemCode>
+        <ItemCode name="RamiLevi" code ="134"></ItemCode>
+        <ItemCode name="Victory" code="530"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>ק"ג אגסים במשקל</ItemName>
+        <ItemCode name="Shufersal" code ="7290000964829"></ItemCode>
+        <ItemCode name="RamiLevi" code ="113"></ItemCode>
+        <ItemCode name="Victory" code="510"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>אננס יחידות</ItemName>
+        <ItemCode name="Shufersal" code ="7290015309028"></ItemCode>
+        <ItemCode name="RamiLevi" code ="7290000000119"></ItemCode>
+        <ItemCode name="Victory" code="522"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>ק"ג תפוחים במשקל</ItemName>
+        <ItemCode name="Shufersal" code ="7290000963563"></ItemCode>
+        <ItemCode name="RamiLevi" code ="114"></ItemCode>
+        <ItemCode name="Victory" code="584"></ItemCode>
+      </Item>
+    </Category>
+    <Category name ="שימורים">
+      <Item>
+        <ItemName>מלפפונים בחומץ</ItemName>
+        <ItemCode name="Shufersal" code ="7290000467184"></ItemCode>
+        <ItemCode name="RamiLevi" code ="7290000467184"></ItemCode>
+        <ItemCode name="Victory" code="7290000467184"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>טונה</ItemName>
+        <ItemCode name="Shufersal" code ="7290002929642"></ItemCode>
+        <ItemCode name="RamiLevi" code ="7290002929642"></ItemCode>
+        <ItemCode name="Victory" code="2929642"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>כרוב כבוש</ItemName>
+        <ItemCode name="Shufersal" code ="7290000468006"></ItemCode>
+        <ItemCode name="RamiLevi" code ="7290000468006"></ItemCode>
+        <ItemCode name="Victory" code="7290000468006"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>תירס לייט</ItemName>
+        <ItemCode name="Shufersal" code ="7290000208145"></ItemCode>
+        <ItemCode name="RamiLevi" code ="7290000208145"></ItemCode>
+        <ItemCode name="Victory" code="7290000208145"></ItemCode>
+      </Item>
+      <Item>
+        <ItemName>תירס</ItemName>
+        <ItemCode name="Shufersal" code ="7290000208329"></ItemCode>
+        <ItemCode name="RamiLevi" code ="7290000208329"></ItemCode>
+        <ItemCode name="Victory" code="7290000208329"></ItemCode>
+      </Item>
+    </Category>
+    <Category name ="שונות">
+      <Item>
+        <ItemName>אקונומיקה</ItemName>
+        <ItemCode name="Shufersal" code ="7290000288017"></ItemCode>
+        <ItemCode name="RamiLevi" code ="7290000288017"></ItemCode>
+        <ItemCode name="Victory" code="7290000288017"></ItemCode>
+      </Item>
+	  <Item>
+        <ItemName>K-300</ItemName>
+        <ItemCode name="Shufersal" code ="7290000288352"></ItemCode>
+        <ItemCode name="RamiLevi" code ="7290000288352"></ItemCode>
+        <ItemCode name="Victory" code="7290000288352"></ItemCode>
+      </Item>
+	   <Item>
+        <ItemName>משחת שיניים</ItemName>
+        <ItemCode name="Shufersal" code ="7290005425745"></ItemCode>
+        <ItemCode name="RamiLevi" code ="7290005425745"></ItemCode>
+        <ItemCode name="Victory" code="7290005425745"></ItemCode>
+      </Item>
+    </Category>
+  </Categories>
+  
+  
+</DataBase>
