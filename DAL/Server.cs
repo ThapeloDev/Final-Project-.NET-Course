@@ -7,8 +7,19 @@ using BLL;
 
 namespace DAL
 {
+    /*
+     Static classes are rarely a good idea, since it creates tight coupling (which hinders testability),
+     does not allow for abstraction via interface
+    */
     public static class Server
     {
+        /*having constant paths is never a good idea, especially absolute ones
+         * This means that your server will only work on a computer where such a path exists.
+         * Use only relative paths when dealing with a file system.
+         * 
+         * Consider providing the path as a constructor argument- this makes your code testable.
+         */
+
         private const string PATH = @"C:\Users\CodeValue\Desktop\Final Project\DAL\Database\";
         private const string ITEMS_FILE = "CommonItems.xml";
         private const string CHAINS_FILE = "Chains.xml";

@@ -7,10 +7,17 @@ using Excel = Microsoft.Office.Interop.Excel;
 
 namespace BLL
 {
+    /*
+     * Separating the implementation of the core logic from exporting to excel is a very good idea
+     * Way to go!
+     */
     public class ExportExcelFile
     {
+
         private int _row = 1;
         private int _col = 2;
+
+        //Declaring constants is a good practice, way to go!
         private const int LEFT = 250;
         private const int TOP = 10;
         private const int WIDTH = 70;
@@ -48,6 +55,9 @@ namespace BLL
 
             var lst = new Dictionary<string, Cell>();
 
+            /* It is much better to divide a method into smaller "centered" methods.. It is a lot more readable, understandable, maintaiable, debuggable and scalable.
+             * Consider: Each block of code which does some operation can be extracted into a method.
+             */
             #region Build Table
             foreach (var chain in ccp.Chains.Values)
             {

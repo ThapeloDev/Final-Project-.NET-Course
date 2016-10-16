@@ -35,6 +35,7 @@ namespace BLL
         {
             return Chains[chainName].TotalCartPrice.ToString();
         }
+        
         public void CartPriceInChain()
         {
             Server.GetPrices(Chains);

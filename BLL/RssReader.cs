@@ -58,6 +58,10 @@ namespace BLL
             }
             catch
             {
+
+                //Never ignore exceptions, they are a sign that something went wrong, do not just swallow them or you will have code that magically "does nothing and reports nothing" 
+                //You will not know what to fix because you won't know that something's broken.
+                //Exceptions can be a good thing
                 // ignored
             }
         }
